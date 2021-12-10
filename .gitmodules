@@ -1,0 +1,3 @@
+[submodule "flutter-s3classifier/voice-reocrder"]
+	path = flutter-s3classifier/voice-reocrder
+	url = git@github.com:nirobio/c4dhi-code.git
